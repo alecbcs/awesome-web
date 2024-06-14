@@ -34,3 +34,4 @@ prioritizing people over profits.
 
 ### Search Engines
 - [kagi.com](https://kagi.com)
+- [marginalia.nu](https://search.marginalia.nu)
