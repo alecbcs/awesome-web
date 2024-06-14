@@ -10,28 +10,28 @@ prioritizing people over profits.
 - [News](#news)
 - [Search Engines](#search-engines)
 
-### Communities
+## Communities
 - [lobste.rs](https://lobste.rs)
 
-### Git Forges
+## Git Forges
 - [codeberg.org](https://codeberg.org)
 
-### Maps
+## Maps
 - [maps.earth](https://maps.earth)
 - [tucsonpathways.org](https://www.tucsonpathways.org)
 
-### Messaging
+## Messaging
 - [matrix.org](https://matrix.org)
 - [signal.org](https://signal.org)
 
-### Money
+## Money
 - [liberapay.com](https://liberapay.com)
 
-### News
+## News
 - [404media.co](https://404media.co)
 - [lwn.net](https://lwn.net)
 - [platformer.news](https://platformer.news)
 
-### Search Engines
+## Search Engines
 - [kagi.com](https://kagi.com)
 - [marginalia.nu](https://search.marginalia.nu)
