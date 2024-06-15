@@ -1,6 +1,6 @@
 # Awesome Web
-Awesome Web is a human curated collection of websites and internet organization
-prioritizing people over profits.
+A human curated collection of websites and internet organization prioritizing
+people over profits.
 
 ## Table of Contents
 - [Books](#books)
