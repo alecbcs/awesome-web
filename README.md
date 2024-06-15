@@ -23,10 +23,12 @@ people over profits.
 
 ## Git Forges
 - [codeberg.org](https://codeberg.org)
+- [sourcehut.org](https://sourcehut.org/)
 
 ## Maps
 - [maps.earth](https://maps.earth)
 - [tucsonpathways.org](https://www.tucsonpathways.org)
+- [organicmaps.app](https://organicmaps.app/)
 
 ## Messaging
 - [matrix.org](https://matrix.org)
