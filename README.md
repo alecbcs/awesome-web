@@ -5,6 +5,7 @@ people over profits.
 ## Table of Contents
 - [Books](#books)
 - [Communities](#communities)
+- [Games](#games)
 - [Git Forges](#git-forges)
 - [Maps](#maps)
 - [Messaging](#messaging)
@@ -37,6 +38,11 @@ people over profits.
 <details><summary><a href="https://lobste.rs">lobste.rs</a></summary>
   Lobsters is a computing-focused community centered around link aggregation
   and discussion
+</details>
+
+## Games
+<details><summary><a href="https://gog.com">gog.com</a></summary>
+  GOG is a digital marketplace for local first, drm-free games.
 </details>
 
 ## Git Forges
@@ -86,6 +92,9 @@ people over profits.
 <details><summary><a href="https://404media.co">404media.co</a></summary>
   404 Media is a journalist-founded digital media company exploring the ways
   technology is shaping–and is shaped by–our world.
+</details>
+<details><summary><a href="https://asteriskmag.com">asteriskmag.com</a></summary>
+  Asterisk is a quarterly journal of in-depth essays about our world.
 </details>
 <details><summary><a href="https://lwn.net">lwn.net</a></summary>
   LWN.net is a reader-supported news site dedicated to producing the best

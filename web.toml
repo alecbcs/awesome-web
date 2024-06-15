@@ -5,6 +5,12 @@ description = """
   technology is shaping–and is shaped by–our world.
   """
 
+["asteriskmag.com"]
+tags = ["news"]
+description = """
+  Asterisk is a quarterly journal of in-depth essays about our world.
+  """
+
 ["bandcamp.com"]
 tags = ["music"]
 description = """
@@ -24,6 +30,12 @@ tags = ["git forges"]
 description = """
   Codeberg is a collaboration platform providing Git hosting and services for
   free and open source software, content and projects.
+  """
+
+["gog.com"]
+tags = ["games"]
+description = """
+  GOG is a digital marketplace for local first, drm-free games.
   """
 
 ["gutenberg.org"]
@@ -93,7 +105,7 @@ tags = ["news"]
 description = """
   Platformer is your daily guide to understanding social networks and their
   relationships with the world.
-"""
+  """
 
 ["search.marginalia.nu"]
 tags = ["search engines"]
@@ -101,7 +113,7 @@ description = """
   Marginalia is an independent DIY search engine that focuses on non-commercial
   content, and attempts to show you sites you perhaps weren't aware of in favor
   of the sort of sites you probably already knew existed.
-"""
+  """
 
 ["signal.org"]
 tags = ["messaging"]
