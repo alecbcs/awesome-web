@@ -1,5 +1,5 @@
 # Awesome Web
-A human curated collection of websites and internet organization prioritizing
+A human curated collection of websites and internet organizations prioritizing
 people over profits.
 
 ## Table of Contents
