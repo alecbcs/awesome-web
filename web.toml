@@ -92,6 +92,13 @@ description = """
   operating on a secure, decentralised, communication network.
   """
 
+["open-meteo.com"]
+tags = ["api", "weather"]
+descriptions = """
+  Open-Meteo is an open-source weather API and offers free access for
+  non-commercial use. No API key is required.
+"""
+
 ["organicmaps.app"]
 tags = ["maps"]
 description = """
