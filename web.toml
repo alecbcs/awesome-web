@@ -93,11 +93,11 @@ description = """
   """
 
 ["open-meteo.com"]
-tags = ["api", "weather"]
-descriptions = """
+tags = ["weather"]
+description = """
   Open-Meteo is an open-source weather API and offers free access for
   non-commercial use. No API key is required.
-"""
+  """
 
 ["organicmaps.app"]
 tags = ["maps"]
