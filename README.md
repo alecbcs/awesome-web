@@ -25,6 +25,7 @@ Awesome Web includes:
 - [News](#news)
 - [Search Engines](#search-engines)
 - [Shops](#shops)
+- [Weather](#weather)
 
 ## Books
 <details><summary><a href="https://bookshop.org">bookshop.org</a></summary>
@@ -136,5 +137,11 @@ Awesome Web includes:
   Libro.fm is an employee-owned Social Purpose Corporation that shares profits
   from your audiobook purchases with your chosen bookstore, giving you the
   power to keep money within your local economy.
+</details>
+
+## Weather
+<details><summary><a href="https://open-meteo.com">open-meteo.com</a></summary>
+  Open-Meteo is an open-source weather API and offers free access for
+  non-commercial use. No API key is required.
 </details>
 
