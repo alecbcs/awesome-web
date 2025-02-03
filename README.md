@@ -14,18 +14,27 @@ Awesome Web includes:
 
 
 ## Table of Contents
+- [Apis](#apis)
 - [Books](#books)
 - [Communities](#communities)
 - [Games](#games)
 - [Git Forges](#git-forges)
+- [Location Services](#location-services)
 - [Maps](#maps)
 - [Messaging](#messaging)
 - [Money](#money)
 - [Music](#music)
 - [News](#news)
+- [Podcasts](#podcasts)
 - [Search Engines](#search-engines)
 - [Shops](#shops)
 - [Weather](#weather)
+
+## Apis
+<details><summary><a href="https://beacondb.net">beacondb.net</a></summary>
+  BeaconDB aims to be an alternative to Mozilla Location Services that offers
+  public domain dumps of its WiFi database.
+</details>
 
 ## Books
 <details><summary><a href="https://bookshop.org">bookshop.org</a></summary>
@@ -64,6 +73,12 @@ Awesome Web includes:
 </details>
 <details><summary><a href="https://sourcehut.org">sourcehut.org</a></summary>
   Sourcehut is an open source software development platform.
+</details>
+
+## Location Services
+<details><summary><a href="https://beacondb.net">beacondb.net</a></summary>
+  BeaconDB aims to be an alternative to Mozilla Location Services that offers
+  public domain dumps of its WiFi database.
 </details>
 
 ## Maps
@@ -108,6 +123,10 @@ Awesome Web includes:
 <details><summary><a href="https://asteriskmag.com">asteriskmag.com</a></summary>
   Asterisk is a quarterly journal of in-depth essays about our world.
 </details>
+<details><summary><a href="https://e360.yale.edu">e360.yale.edu</a></summary>
+  Yale Environment 360 is an online magazine offering opinion, analysis,
+  reporting, and debate on global environmental issues.
+</details>
 <details><summary><a href="https://lwn.net">lwn.net</a></summary>
   LWN.net is a reader-supported news site dedicated to producing the best
   coverage from within the Linux and free software development communities
@@ -115,6 +134,16 @@ Awesome Web includes:
 <details><summary><a href="https://platformer.news">platformer.news</a></summary>
   Platformer is your daily guide to understanding social networks and their
   relationships with the world.
+</details>
+<details><summary><a href="https://thresholdpodcast.org">thresholdpodcast.org</a></summary>
+  Threshold is a Peabody Award-winning documentary podcast about our place
+  in the natural world.
+</details>
+
+## Podcasts
+<details><summary><a href="https://thresholdpodcast.org">thresholdpodcast.org</a></summary>
+  Threshold is a Peabody Award-winning documentary podcast about our place
+  in the natural world.
 </details>
 
 ## Search Engines

@@ -18,6 +18,14 @@ description = """
   discover, connect with, and directly support the artists they love.
   """
 
+["beacondb.net"]
+tags = ["location services", "apis"]
+description = """
+  BeaconDB aims to be an alternative to Mozilla Location Services that offers
+  public domain dumps of its WiFi database.
+"""
+
+
 ["bookshop.org"]
 tags = ["books", "shops"]
 description = """
@@ -31,6 +39,13 @@ description = """
   Codeberg is a collaboration platform providing Git hosting and services for
   free and open source software, content and projects.
   """
+
+["e360.yale.edu"]
+tags = ["news"]
+description = """
+  Yale Environment 360 is an online magazine offering opinion, analysis,
+  reporting, and debate on global environmental issues.
+"""
 
 ["gog.com"]
 tags = ["games"]
@@ -142,6 +157,13 @@ description = """
   public domain ebooks that are lovingly formatted, open source, free of U.S.
   copyright restrictions, and free of cost.
   """
+
+["thresholdpodcast.org"]
+tags = ["news", "podcasts"]
+description = """
+  Threshold is a Peabody Award-winning documentary podcast about our place
+  in the natural world.
+"""
 
 ["tucsonpathways.org"]
 tags = ["maps"]
